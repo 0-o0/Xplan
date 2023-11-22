@@ -1,6 +1,67 @@
-[submodule "Script/x1"]
-	path = Script/x1
+[submodule "Script/chxm"]
+	path = Script/chxm
 	url = https://github.com/chxm1023/Rewrite.git
 [submodule "Script/wf021325"]
 	path = Script/wf021325
 	url = https://github.com/wf021325/qx.git
+[submodule "Script/nobyda"]
+	path = Script/nobyda
+	url = https://github.com/NobyDa/Script.git
+[submodule "Script/Crazy"]
+	path = Script/Crazy
+	url = https://github.com/Crazy-Z7/Task.git
+[submodule "Script/FoKit"]
+	path = Script/FoKit
+	url = https://github.com/FoKit/Scripts.git
+[submodule "Script/mieqq"]
+	path = Script/mieqq
+	url = https://github.com/mieqq/mieqq.git
+[submodule "Script/app2smile"]
+	path = Script/app2smile
+	url = https://github.com/app2smile/rules.git
+[submodule "Script/Maasea"]
+	path = Script/Maasea
+	url = https://github.com/Maasea/sgmodule.git
+[submodule "Script/Neurogram"]
+	path = Script/Neurogram
+	url = https://github.com/Neurogram-R/JSBox.git
+[submodule "Script/BiliUniverse"]
+	path = Script/BiliUniverse
+	url = https://github.com/BiliUniverse/Universe.git
+[submodule "Script/lowking"]
+	path = Script/lowking
+	url = https://github.com/lowking/Scripts.git
+[submodule "Script/githubdulong"]
+	path = Script/githubdulong
+	url = https://github.com/githubdulong/Script.git
+[submodule "Script/ClydeTime"]
+	path = Script/ClydeTime
+	url = https://github.com/ClydeTime/Quantumult.git
+[submodule "Script/Yu9191"]
+	path = Script/Yu9191
+	url = https://github.com/Yu9191/Rewrite.git
+[submodule "Script/Guding88"]
+	path = Script/Guding88
+	url = https://github.com/Guding88/Script.git
+[submodule "Script/yqc007"]
+	path = Script/yqc007
+	url = https://github.com/yqc007/QuantumultX.git
+[submodule "Script/Yuheng0101"]
+	path = Script/Yuheng0101
+	url = https://github.com/Yuheng0101/X.git
+[submodule "Script/deezertidal"]
+	path = Script/deezertidal
+	url = https://github.com/deezertidal/QuantumultX-Rewrite.git	
+[submodule "Script/Marol62926"]
+	path = Script/Marol62926
+	url = https://github.com/Marol62926/Quantumultx.git
+[submodule "Script/Peng"]
+	path = Script/Peng
+	url = https://github.com/Peng-YM/Sub-Store.git
+[submodule "Script/I"]
+	path = Script/I
+	url = https://github.com/I-am-R-E/Functional-Store-Hub.git	
+[submodule "Script/nameking77"]
+	path = Script/nameking77
+	url = https://github.com/nameking77/Qx.git												
+
