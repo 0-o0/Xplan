@@ -1,3 +1,6 @@
 [submodule "Script/x1"]
 	path = Script/x1
 	url = https://github.com/chxm1023/Rewrite.git
+[submodule "Script/wf021325"]
+	path = Script/wf021325
+	url = https://github.com/wf021325/qx.git
