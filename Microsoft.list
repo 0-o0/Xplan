@@ -248,7 +248,6 @@ DOMAIN-SUFFIX,mesh.com
 DOMAIN-SUFFIX,mgmt-azure-api.cn
 DOMAIN-SUFFIX,microbit.org
 DOMAIN-SUFFIX,microsoft
-DOMAIN-SUFFIX,microsoft-falcon.io
 DOMAIN-SUFFIX,microsoft-give.com
 DOMAIN-SUFFIX,microsoft-int.com
 DOMAIN-SUFFIX,microsoft-online.cn
@@ -304,7 +303,6 @@ DOMAIN-SUFFIX,microsoftads.com
 DOMAIN-SUFFIX,microsoftadvertising.com
 DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
 DOMAIN-SUFFIX,microsoftaffiliates.com
-DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsoftazuread-sso.com
 DOMAIN-SUFFIX,microsoftazuresponsorships.com
 DOMAIN-SUFFIX,microsoftazurestatus.cn
@@ -424,10 +422,8 @@ DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,msminico.cn
 DOMAIN-SUFFIX,msminico.com.cn
 DOMAIN-SUFFIX,msn.cn
-DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msn.com.cn
 DOMAIN-SUFFIX,msn.com.nsatc.net
-DOMAIN-SUFFIX,msn.com.tw
 DOMAIN-SUFFIX,msn.net
 DOMAIN-SUFFIX,msnewskids.com
 DOMAIN-SUFFIX,msnewskids.net
