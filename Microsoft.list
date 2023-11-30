@@ -327,9 +327,6 @@ DOMAIN-SUFFIX,microsoftmetrics.cn
 DOMAIN-SUFFIX,microsoftmxfilantropia.com
 DOMAIN-SUFFIX,microsoftnews.cc
 DOMAIN-SUFFIX,microsoftnews.cn
-DOMAIN-SUFFIX,microsoftnews.com
-DOMAIN-SUFFIX,microsoftnews.net
-DOMAIN-SUFFIX,microsoftnews.org
 DOMAIN-SUFFIX,microsoftnewsforkids.com
 DOMAIN-SUFFIX,microsoftnewsforkids.net
 DOMAIN-SUFFIX,microsoftnewsforkids.org
@@ -419,7 +416,6 @@ DOMAIN-SUFFIX,msignitechina.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,msminico.cn
 DOMAIN-SUFFIX,msminico.com.cn
-DOMAIN-SUFFIX,msn.cn
 DOMAIN-SUFFIX,msn.com.cn
 DOMAIN-SUFFIX,msn.com.nsatc.net
 DOMAIN-SUFFIX,msn.net
@@ -628,13 +624,3 @@ DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sharepointonline.com
-DOMAIN-SUFFIX,spoprod-a.akamaihd.net
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,1drv
-DOMAIN-KEYWORD,skydrive
-USER-AGENT,Microsoft*
