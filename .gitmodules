@@ -79,3 +79,15 @@
 [submodule "Script/leey668"]
 	path = Script/leey668
 	url = https://github.com/leey668/pyer.git
+[submodule "Script/NobyDa"]
+	path = Script/NobyDa
+	url = https://github.com/NobyDa/Script.git
+[submodule "Script/deezertidal"]
+	path = Script/deezertidal
+	url = https://github.com/deezertidal/deezertidal.git
+[submodule "Script/nameking77"]
+	path = Script/nameking77
+	url = https://github.com/nonomal/Qx.git
+[submodule "Script/899964"]
+	path = Script/899964
+	url = https://github.com/89996462/Quantumult-X.git
