@@ -4,7 +4,7 @@
     "AcrylicHosts_All.dat": "https://raw.githubusercontent.com/0-o0/Xplan/main/nosni/AcrylicHosts_All.dat",
     "SystemHosts_All.dat": "https://raw.githubusercontent.com/0-o0/Xplan/main/nosni/SystemHosts_All.dat",
     "SwitchData.json": "https://raw.githubusercontent.com/0-o0/Xplan/main/nosni/SwitchData.json",
-    "NoSniCrt.crt.crt": "https://raw.githubusercontent.com/0-o0/Xplan/main/nosni/NoSniCrt.crt",
+    "NoSniCrt.crt": "https://raw.githubusercontent.com/0-o0/Xplan/main/nosni/NoSniCrt.crt",
     "nginx.conf": "https://raw.githubusercontent.com/0-o0/Xplan/main/nosni/nginx.conf",
     "NoSni.exe": "https://raw.githubusercontent.com/0-o0/Xplan/main/nosni/NoSni.exe"
   },
