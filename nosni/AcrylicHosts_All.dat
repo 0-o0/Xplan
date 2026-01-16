@@ -125,6 +125,7 @@
 127.0.0.1 *.github.io
 #	Github End
 #	Google LLC Start
+FW discuss.ai.google.dev
 127.0.0.1 googleapis.com
 127.0.0.1 *.googleapis.com
 127.0.0.1 *.*.googleapis.com
@@ -155,6 +156,8 @@
 127.0.0.1 *.googleweblight.com
 127.0.0.1 gmail.com
 127.0.0.1 *.gmail.com
+127.0.0.1 android.com
+127.0.0.1 *.android.com
 #	Google LLC End
 #	Gravatar Start
 127.0.0.1 gravatar.com
@@ -189,12 +192,8 @@
 104.26.12.96 *.*.iwara.tv
 #	Iwara End
 #	LINUX DO Start
-# 优先 IPv6
 2606:4700:10::6814:10ea linux.do
 2606:4700:10::6814:10ea *.linux.do
-# IPv4 备用
-104.20.16.234 linux.do
-172.66.166.61 linux.do
 #	LINUX DO End
 #	MEGA Start
 127.0.0.1 mega.nz
@@ -232,6 +231,12 @@
 127.0.0.1 *.pinimg.com
 #	Pinterest End
 #	Pixiv Start
+NX analytics.twitter.com
+NX www.googletagmanager.com
+NX t.co
+NX pixon.ads-pixiv.net
+NX pagead2.googlesyndication.com
+NX fundingchoicesmessages.google.com
 127.0.0.1 pixiv.net
 127.0.0.1 *.pixiv.net
 127.0.0.1 *.*.pixiv.net
@@ -274,6 +279,7 @@
 127.0.0.1 *.redditmedia.com
 127.0.0.1 redditstatic.com
 127.0.0.1 *.redditstatic.com
+104.18.36.123 >redgifs.com
 #	Reddit End
 #	RFI Start
 127.0.0.1 rfi.fr
